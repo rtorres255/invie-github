@@ -1,2 +1,4 @@
-# invie-github
-Curs git-hub by rtorres
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
